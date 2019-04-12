@@ -9,6 +9,6 @@ public class DeadLockDemo {
     private static final Object HAIR_B = new Object();
 
     public static void main(String[] args) {
-       
+
     }
 }
